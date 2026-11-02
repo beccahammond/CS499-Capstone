@@ -13,7 +13,7 @@ This artifact will be enhanced in three categories:
 - Algorithms and Data Structures
 - Databases
 
-## Contents (coming soon)
+## Contents TBD
 - Professional Self-Assessment
 - Code Review
 - Enhancement One: Software Design and Engineering
