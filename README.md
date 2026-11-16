@@ -15,7 +15,7 @@ This artifact will be enhanced in three categories:
 
 ## Contents TBD
 - Professional Self-Assessment
-- Code Review
+- Code Review https://youtu.be/AmxHldC_ilw?si=sV3qB2YkuS0ylhRx 
 - Enhancement One: Software Design and Engineering
 - Enhancement Two: Algorithms and Data Structures
 - Enhancement Three: Databases
