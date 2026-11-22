@@ -1,0 +1,12 @@
+# Local settings, including the database password
+.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
