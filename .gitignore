@@ -1,4 +1,4 @@
-# Local settings, including the database password
+# Local settings, including secrets/passwords
 .env
 
 # Python
